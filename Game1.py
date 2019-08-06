@@ -4,6 +4,8 @@ from pygame.locals import *
 import math   # 因为需要计算旋转的角度
 import random # 因为需要用到随机的功能
 
+
+# 我错了
 # 初始化pygame，设置展示窗口
 pygame.init()
 width, height = 640, 480
