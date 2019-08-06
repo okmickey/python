@@ -6,6 +6,7 @@ import random # 因为需要用到随机的功能
 
 
 # 我错了
+# 我又错了
 # 初始化pygame，设置展示窗口
 pygame.init()
 width, height = 640, 480
